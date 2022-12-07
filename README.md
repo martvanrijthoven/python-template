@@ -10,3 +10,6 @@
  - pyproject.toml
    - packages
    - name
+
+
+## Add License
